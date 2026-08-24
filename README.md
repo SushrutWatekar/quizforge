@@ -1,12 +1,12 @@
-# Quiz Quest
+# Quiz Forge
 
-A full-stack quiz application built step by step to learn and practise modern software development.
+A full-stack quiz application built step by step to learn and practise development.
 
 **Python + FastAPI + TypeScript + HTML**
 
 ## What it does
 
-Quiz Quest fetches quiz questions from a Python backend and displays them dynamically in the browser.
+Quiz Forge fetches quiz questions from a Python backend and displays them dynamically in the browser.
 
 The project starts simple and evolves through progressively more advanced levels.
 
