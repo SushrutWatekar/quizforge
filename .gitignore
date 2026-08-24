@@ -1,0 +1,24 @@
+# Python
+backend/__pycache__/
+backend/*.pyc
+backend/.venv/
+
+# Node.js
+frontend/node_modules/
+
+# TypeScript generated files
+frontend/*.js
+frontend/*.js.map
+frontend/*.d.ts
+frontend/*.d.ts.map
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
